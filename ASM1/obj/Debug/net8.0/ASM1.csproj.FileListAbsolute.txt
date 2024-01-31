@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\ASM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\ASM1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\ASM1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\ASM1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\bin\Debug\net8.0\ASM1.exe
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\bin\Debug\net8.0\ASM1.deps.json
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\bin\Debug\net8.0\ASM1.runtimeconfig.json
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\bin\Debug\net8.0\ASM1.dll
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\bin\Debug\net8.0\ASM1.pdb
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\ASM1.dll
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\refint\ASM1.dll
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\ASM1.pdb
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\ASM1.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\ref\ASM1.dll
