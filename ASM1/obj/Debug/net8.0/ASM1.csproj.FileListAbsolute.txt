@@ -12,3 +12,4 @@ C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\refint\
 C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\ASM1.pdb
 C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\ASM1.genruntimeconfig.cache
 C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\ref\ASM1.dll
+C:\Users\DELL\Desktop\Programming (7388)\Work\ASM1\ASM1\obj\Debug\net8.0\ASM1.sourcelink.json
