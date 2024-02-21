@@ -1,6 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System.Net.Sockets;
-
 Console.WriteLine("Program for calculating water bill");
 
 void WaterBill()
@@ -50,7 +47,7 @@ void WaterBill()
                     {
                         money = waterNumber * 15929 * 1.1;
                     }
-                    Console.WriteLine("Your family's water bill is: {0} VND.", money);
+                    Console.WriteLine("{0}'s family water bill is: {1} VND.",customer, money);
                 }
                 else
                 {
@@ -81,7 +78,7 @@ void WaterBill()
                 int waterNumber = waterNumberCurrentMonth - waterNumberLastMonth;
                 double money = 0;
                 money = waterNumber * 9955 * 1.1;
-                Console.WriteLine("Your administrative agency or public service's water bill is: {0} VND", money);
+                Console.WriteLine("{0}'s administrative agency or public service water bill is: {1} VND", customer, money);
             }
             else
             {
@@ -107,7 +104,7 @@ void WaterBill()
                 int waterNumber = waterNumberCurrentMonth - waterNumberLastMonth;
                 double money = 0;
                 money = waterNumber * 11615 * 1.1;
-                Console.WriteLine("Your production unit's water bill is: {0} VND", money);
+                Console.WriteLine("{0}'s production unit water bill is: {1} VND", customer, money);
             }
             else
             {
@@ -133,7 +130,7 @@ void WaterBill()
             int waterNumber = waterNumberCurrentMonth - waterNumberLastMonth;
             double money = 0;
             money = waterNumber * 22068 * 1.1;
-            Console.WriteLine("Your business service's water bill is: {0} VND", money);
+            Console.WriteLine("{0}'s business service water bill is: {1} VND", customer, money);
         }
         else
         {
