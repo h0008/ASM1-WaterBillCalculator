@@ -31,7 +31,7 @@ void WaterBill()
                     int waterNumber = waterNumberCurrentMonth - waterNumberLastMonth;
                     double waterNumberPeople = waterNumber / numberMember;
                     double money = 0;
-                    if (waterNumberPeople > 0 && waterNumber <= 10)
+                    if (waterNumberPeople > 0 && waterNumberPeople <= 10)
                     {
                         money = waterNumber * 5973 * 1.1;
                     }
